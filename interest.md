@@ -19,12 +19,7 @@ CS开源项目大全
 |存储    |ceph      |https://ceph.com/                          |分布式文件系统     |
 |人工智能|openai    |https://www.openai.com                     |                   |
 |人工智能|TensorFlow|https://www.tensorflow.org                 |                   |
+|人工智能|pytorch   |https://pytorch.org/                       |类似tensorflow     |
 |播放器  |mplayer   |http://www.mplayerhq.hu/design7/news.html  |视频播放器         |
-
-
-
-
-
-
-
-
+|日志    |easylogging| https://github.com/easylogging           | 日志记录          |
+|日志    |glog      |  https://github.com/google/glog           | 日志记录          |
