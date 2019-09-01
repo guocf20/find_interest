@@ -16,7 +16,7 @@
 |人工智能|openai    |https://www.openai.com                     |                   |
 |人工智能|TensorFlow|https://www.tensorflow.org                 |                   |
 |播放器  |mplayer   |http://www.mplayerhq.hu/design7/news.html  |视频播放器         |
-
+|网络开发|itchat    |https://github.com/littlecodersh/itchat    | 聊天              |
 
 
 
