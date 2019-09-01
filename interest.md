@@ -25,3 +25,5 @@ CS开源项目大全
 |播放器  |mplayer   |http://www.mplayerhq.hu/design7/news.html  |视频播放器         |
 |日志    |easylogging| https://github.com/easylogging           | 日志记录          |
 |日志    |glog      |  https://github.com/google/glog           | 日志记录          |
+|网络开发|itchat    |https://github.com/littlecodersh/itchat    | 聊天              |
+
