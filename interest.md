@@ -26,4 +26,8 @@ CS开源项目大全
 |日志    |easylogging| https://github.com/easylogging           | 日志记录          |
 |日志    |glog      |  https://github.com/google/glog           | 日志记录          |
 |网络开发|itchat    |https://github.com/littlecodersh/itchat    | 聊天              |
-
+|网络开发|libssh2   | https://www.libssh2.org/                  | ssh客户端开发     |
+|网络安全|mbedtls   |https://tls.mbed.org/                      | 轻量级的openssl   |
+|图形处理|YUView    | ient.github.io/yuview                     | 用于yuv格式图片   |
+|音视频  |webrtc    | https://webrtc.org/                       | 音视频通讯        |
+|音视频  |srs       |https://ossrs.net/releases/                | 音视频通讯        |
